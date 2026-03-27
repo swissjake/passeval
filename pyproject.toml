@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "passeval"
-version = "0.1.9"
+version = "0.2.0"
 description = "Offline ML-powered password strength evaluation using a trained Random Forest model."
 readme = "README.md"
 license = { file = "LICENSE" }
@@ -38,9 +38,9 @@ dev = [
 ]
 
 [project.urls]
-Homepage = "https://github.com/yourusername/passmeter"
-Repository = "https://github.com/yourusername/passmeter"
-Issues = "https://github.com/yourusername/passmeter/issues"
+Homepage = "https://github.com/swissjake/passeval"
+Repository = "https://github.com/swissjake/passeval"
+Issues = "https://github.com/swissjake/passeval/issues"
 
 [tool.setuptools.packages.find]
 where = ["."]

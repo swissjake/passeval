@@ -13,4 +13,4 @@ from .core import evaluate_password
 from .features import extract_features
 
 __all__ = ["evaluate_password", "extract_features"]
-__version__ = "0.1.9"
+__version__ = "0.2.0"
